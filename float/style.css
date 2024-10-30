@@ -1,0 +1,43 @@
+body{
+  padding: 50px;
+}
+p{
+  margin: 10px;
+}
+
+.i1{
+  margin-top: 50px;
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+
+img{
+border-radius: 15px;
+border:solid black 3px;
+margin: 10px;
+}
+.p1{
+  margin-top: 125px;
+}
+.p2{
+  text-align: right;
+}
+.i2 {
+  height: 150px;
+  width: 150px;
+  float: right;
+  
+}
+.c1 {
+  clear: both;
+}
+.div1 {
+  display: flex;
+  justify-content: space-between;
+}
+.div1 img {
+  margin: 100px 20px;
+  width: 22%;
+  height: auto;
+}
